@@ -14,7 +14,7 @@ Aqui eu reúni alguns projetos desenvolvidos com foco em:
 
 | Projeto | Descrição | Linguagem | Link |
 |--------|-----------|-----------|------|
-| **To Do List API** | CRUD com boas práticas e arquitetura em camadas | Python (API RESTFUL, FastAPI, PostgreeSQL) | [Ver Projeto]() |
+| **To Do List API** | CRUD com boas práticas e arquitetura em camadas | Python (API RESTFUL, FastAPI, PostgreeSQL) | [Ver Projeto](https://github.com/Ingridexx/ToDoListAPI) |
 | **POC - Arquiteturas** | Comparação entre monolito e arquitetura modular | Python | [Ver Projeto]() |
 | **Padrões de Projeto** | Exemplos práticos de padrões como Singleton e Strategy | Python | [Ver Projeto]() |
 
